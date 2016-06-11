@@ -1,1 +1,5 @@
-React Weather Application
+# React Weather Application
+
+---
+
+A simple React weather application using OpenWeatherMap.
